@@ -1,0 +1,23 @@
+{
+    "name": "node-dirty-query"
+    , "description": "Lightweight Query API for Node Dirty Databases"
+    , "version": "0.1.1"
+    , "author": "Dave Tonge <dave@simplecreativity.co.uk> (https://github.com/davidgtonge)"
+    , "tags": ["node-dirty", "underscore", "mongo", "query"]
+    , "main": "./js/node_dirty_query"
+    , "repository": {
+        "type": "git"
+    ,   "url": "https://davidgtonge@github.com/davidgtonge/node_dirty_query.git"
+    }
+    , "dependencies": {
+      "dirty": ">=0.9.x"
+    , "underscore": ">=1.1.x"
+}
+    , "devDependencies": {
+    "coffee-script" : ">=1.x.x"
+    ,"nodeunit": "0.6.x"
+}
+    , "scripts": {
+    "test": "cake test"
+}
+}
