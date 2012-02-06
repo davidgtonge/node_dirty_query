@@ -1,5 +1,5 @@
 {
-    "name": "node-dirty-query"
+    "name": "dirty-query"
     , "description": "Lightweight Query API for Node Dirty Databases"
     , "version": "0.1.1"
     , "author": "Dave Tonge <dave@simplecreativity.co.uk> (https://github.com/davidgtonge)"
